@@ -42,23 +42,8 @@
     "html",
     "css"
   ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sanidhyy/apple-clone.git"
-  },
-  "homepage": "https://github.com/sanidhyy/apple-clone#readme",
+  
  
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/drei": "^9.121.5",
